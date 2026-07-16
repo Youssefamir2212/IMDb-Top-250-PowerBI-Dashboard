@@ -1,4 +1,3 @@
-# IMDb-Top-250-PowerBI-Dashboard
 # IMDb Top 250 Movies Dashboard
 
 ## Overview
