@@ -26,11 +26,6 @@ This Power BI dashboard analyzes the IMDb Top 250 Movies dataset to uncover tren
 - DAX
 - Data Modeling
 
-## Files
-
-- IMDb_Top250.pbix
-- dashboard.png
-- dataset.csv
 
 ## Author
 
