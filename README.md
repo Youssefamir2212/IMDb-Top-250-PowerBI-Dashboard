@@ -6,7 +6,7 @@ This Power BI dashboard analyzes the IMDb Top 250 Movies dataset to uncover tren
 
 ## Dashboard Preview
 
-![Uploading Screenshot 2026-07-16 194727.png…]()
+"C:\Users\youssef amir\Pictures\Screenshots\Screenshot 2026-07-16 194727.png"
 
 
 ## Features
